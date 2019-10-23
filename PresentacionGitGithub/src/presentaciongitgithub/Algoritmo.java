@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author MORALES
+ * @author Pantoja
  */
 public class Algoritmo {
 
